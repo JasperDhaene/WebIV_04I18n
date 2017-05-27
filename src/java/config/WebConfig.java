@@ -26,7 +26,7 @@ public class WebConfig extends WebMvcConfigurerAdapter {
 
     }
     
-    /*
+    
     @Bean
     public MessageSource messageSource()
     {
@@ -34,5 +34,5 @@ public class WebConfig extends WebMvcConfigurerAdapter {
         messageSource.setBasename("resources/messages");
         return messageSource;
     }
-    */
+    
 }
